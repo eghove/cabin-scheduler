@@ -29,3 +29,9 @@ The original team repository may be found here: https://github.com/TheRealMpcham
 - Have a login/new user page where new users will get added into the roster once registered.
 - Have a features page where property owners could blog.
 - Have the roster change up the order for scheduling year to year.
+
+# What Does Cabin Days Look Like?
+
+![Main Screen](https://eghove.github.io/img/portfolio/cabin-days-1.PNG "Main Screen")
+
+![Calendar](https://eghove.github.io/img/portfolio/cabin-days-2.PNG "Calendar")
